@@ -35,6 +35,13 @@
 
 模型的研发初衷在于**打破商业化付费 AI 角色扮演服务的高门槛与剧情阻碍**，为开源社区提供一款高响应度、低显存占用且具备全域剧情解禁能力的离线端侧 GGUF 模型。
 模型地址详见：https://huggingface.co/Moranyunchen/Qwen3.5-4B-nahida-RP-GGUF
+如果是网盘请访问（：
+我提供了百度网盘和夸克网盘，两个的内容是一模一样的，只需下载其中一个网盘中的两份文件即可）：通过百度网盘分享的文件：pocketpa…等2个文件
+链接:https://pan.baidu.com/s/1YsZQWYy6QB1XAKE1xsuLOA?pwd=0xm6 
+复制这段内容打开「百度网盘APP 即可获取」
+我用夸克网盘给你分享了「Qwen3」等2项，点击链接或复制整段内容，打开「夸克APP」即可获取。
+/~c3423aQd4Z~:/
+链接：https://pan.quark.cn/s/36cc8ae84e78
 
 ### 🌟 核心技术特性 (Key Features)
 
